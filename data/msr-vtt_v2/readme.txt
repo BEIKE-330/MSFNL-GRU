@@ -1,0 +1,5 @@
+all_video_data_info1.json相比于all_video_data_info.json是将原先的validate都改成了train
+
+使用的是change_val2train_json.py
+
+因为之前一直都没有用到validate标签的视频
